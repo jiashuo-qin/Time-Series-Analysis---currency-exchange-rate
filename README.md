@@ -31,12 +31,6 @@ In this problem, we will analyze aggregated temperature data.
 Data file LA Temp Monthly.csv  Download LA Temp Monthly.csv contains the monthly average temperature of Los Angeles from January 1950 through December 2018. Run the following code to prepare the data for analysis:
 
 
-The started R Markdown template is provided below:
-
- 
-
-HW2_Q2_starter template.Rmd Download HW2_Q2_starter template.Rmd
-
 You will perform the analysis and modelling on the 'temp' data column.
 
 Question 2a: Exploratory Data Analysis 
