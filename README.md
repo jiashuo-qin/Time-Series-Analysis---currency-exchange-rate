@@ -36,6 +36,7 @@ You will perform the analysis and modelling on the 'temp' data column.
 Question 2a: Exploratory Data Analysis 
 
 Plot both the Time Series and ACF plots. Comment on the main features, and identify what (if any) assumptions of stationarity are violated. Additionally, comment if you believe the differenced data is more appropriate for use in fitting the data. Support your response with a graphical analysis.
+
 Question 2b: Seasonality Estimation
 
 Separately fit a seasonality harmonic model and the ANOVA seasonality model to the temperature data. Evaluate the quality of each fit with residual analysis. Does one model perform better than the other? Which model would you select to fit the seasonality in the data?
